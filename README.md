@@ -6,5 +6,8 @@ This is a training repository to learn git
 - apple
 - orange
 - kiwi
+- cherries
+- peaches
+- apricot
 
 [links]("http://nceas.ucsb.edu")
