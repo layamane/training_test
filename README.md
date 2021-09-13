@@ -3,8 +3,8 @@ This is a training repository to learn git
 
 **bold text**
 
--apple
--orange
--kiwi
+- apple
+- orange
+- kiwi
 
-[links]("html")
+[links]("http://nceas.ucsb.edu")
